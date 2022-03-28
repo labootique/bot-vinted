@@ -1,0 +1,12 @@
+{
+    "token": "OTU3OTcwMzA0ODc2MDIzODY4.YkGhXg.ZdEJy7bwfRDuYRoS_ZeNshNVqzI",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/957973658444378124/jErGCV-W7wqsCHgDKYayU3e6BKFSIRJMrOhPXjxX_0xoWH2UnhN77OBJJGZFtYEbtbW1": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat&brand_id[]=1775&brand_id[]=362&brand_id[]=53&brand_id[]=2703&brand_id[]=14969&brand_id[]=2319&brand_id[]=441&brand_id[]=2069&brand_id[]=304&brand_id[]=88&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&size_id[]=211&size_id[]=102&size_id[]=1226&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=5&size_id[]=6&size_id[]=7&price_to=35.00&currency=EUR&search_id=4901074222&order=newest_first",
+            "salon": "sweat"
+        }
+    }
+}
+   
